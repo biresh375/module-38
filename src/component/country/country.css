@@ -1,0 +1,11 @@
+.country{
+    border: 2px solid green;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    line-height: 0;
+
+}
