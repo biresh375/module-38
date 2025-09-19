@@ -9,3 +9,7 @@
     line-height: 0;
 
 }
+.visited{
+    background-color: rgba(20, 73, 219, 0.352);
+    border: 2px solid black;
+}
